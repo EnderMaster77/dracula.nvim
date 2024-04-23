@@ -1,7 +1,7 @@
 ---@class Palette
 return {
-   bg = "#191a21",
-   fg = "#F8F8F2",
+   bg = "#2d2df3b",
+   fg = "#191a21",
    selection = "#44475A",
    comment = "#6272A4",
    red = "#FF5555",
